@@ -6,10 +6,10 @@ Link to the page:
 
 Admin account login
    
-   ---> nom: admin@gmail.com
-   ---> pass: admin@gmail.com
+   ---> name: admin@gmail.com
+   ---> pswrd: admin@gmail.com
 
 Client acccount login
 
-   ---> nom: membre@gmail.com	  
-   ---> pass: membre@gmail.com
+   ---> name: membre@gmail.com	  
+   ---> pswrd: membre@gmail.com
