@@ -1,0 +1,14 @@
+
+Lien vers la page principale:
+
+   ---> http://www-ens.iro.umontreal.ca/~costalui/ift1147/tp2/filesAccess_tp1990/index.php
+
+Infos sur le compte admin:
+   
+   ---> nom: admin@gmail.com
+   ---> pass: admin@gmail.com
+
+Infos sur le compte client:
+
+   ---> nom: membre@gmail.com	  
+   ---> pass: membre@gmail.com
